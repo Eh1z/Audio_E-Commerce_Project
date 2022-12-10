@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "products",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
